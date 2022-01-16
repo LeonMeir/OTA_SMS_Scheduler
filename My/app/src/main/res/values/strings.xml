@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">OTA SMS Center</string>
+    <string name="controlbtn">Start!</string>
+    <string name="network_off">Currently Unable to connect, Kindly check your data connection</string>
+    <string name="network_on">Network is back up and connected!</string>
+    <string name="token_title">Token:</string>
+    <string name="settings_title">Settings</string>
+    <string name="sim1_title">SIM 1</string>
+    <string name="sim2_title">SIM 2</string>
+    <string name="use_sim">Use sim?</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="back">Back</string>
+    <string name="sim_id_title">SIM ID:</string>
+    <string name="act_settings_title">General app settings</string>
+    <string name="auto_start_title">Auto start with phone</string>
+    <string name="reject_all_calls_title">Reject all calls?</string>
+    <string name="reject_call_msg_title">Send a message when auto-reject a call?</string>
+    <string name="auto_reply_msg_title">Auto response to SMS with message:</string>
+    <string name="initial_reply_text">We will come back to you as soon as possible</string>
+    <string name="monitoring_service_label">Call monitoring service</string>
+    <string name="monitoring_service_description">A service for monitoring phone state in background</string>
+    <string name="sms_monitoring_service_label">Sms monitoring service</string>
+    <string name="sms_monitoring_service_description">A service for monitoring incoming sms in background</string>
+    <string name="monitoring_service_notification_title">Monitoring Incoming Calls</string>
+    <string name="monitoring_service_notification_title_sms">Monitoring Incoming Sms</string>
+    <string name="notification_blocked_call">Blocked call</string>
+    <string name="no_number"><![CDATA[<no number>]]></string>
+    <string name="notification_incoming_call_contact">Contact</string>
+    <string name="notification_background_operation">Performing background operation…</string>
+    <string name="online_reviews">Online reviews</string>
+    <string name="notification_channel_group_name_incoming_calls">Incoming calls</string>
+    <string name="notification_channel_group_name_blocked_calls">Blocked calls</string>
+    <string name="notification_channel_group_name_services">Services</string>
+    <string name="notification_channel_name_known">Known calls</string>
+    <string name="notification_channel_name_positive">Positive calls</string>
+    <string name="notification_channel_name_neutral">Neutral calls</string>
+    <string name="notification_channel_name_unknown">Unknown calls</string>
+    <string name="notification_channel_name_negative">Negative calls</string>
+    <string name="notification_channel_name_blocked_info">Blocked info</string>
+    <string name="notification_channel_name_monitoring_service">Monitoring service</string>
+    <string name="notification_channel_name_tasks">Tasks</string>
+
+</resources>
